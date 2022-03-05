@@ -1,0 +1,12 @@
+{
+  "name": "Dan",
+  "surname": "Vu",
+  "favorite_music": [
+    "Metallica",
+    "Nirvana"
+  ],
+  "address": {
+    "street": "Mira",
+    "house": 1
+  }
+}
